@@ -1,0 +1,8 @@
+Online interpreters and codepads:
+
+a.	https://www.python.org/shell/
+b.	https://www.onlinegdb.com/online_python_interpreter
+c.	https://repl.it/languages/python3
+d.	https://www.tutorialspoint.com/execute_python3_online.php
+e.	https://rextester.com/l/python3_online_compiler
+f.	https://trinket.io/python3 
