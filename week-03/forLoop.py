@@ -34,3 +34,20 @@ for n in range(1, 10):
     product = product * n
 
 print(product)
+
+# 6
+def factorial(n):
+    result = 1
+    for i in range(n):
+        result = result * (i+1)
+    return result
+
+print(factorial(4)) # should return 24
+print(factorial(5)) # should return 120
+
+# 7
+def to_celsius(x):
+    return (x - 32) * (5/9)
+
+for x in range(0, 101, 10):
+    print(x, to_celsius(x))
